@@ -1,3 +1,4 @@
+**Problem Statement-:**
 
 Create a store management system using nodejs where user can create account, sign in, login, see products available on store
 
@@ -16,3 +17,28 @@ Also the user gets a QR code where he can see his entire details of the product 
 Admin can add, delete or update products based on availability.
 
 Refer to lenskart as an example
+
+**Node Dependencies-:**
+    **"bcryptjs": "^2.4.3",
+    "cloudinary": "^1.30.0",
+    "dotenv": "^16.0.1",
+    "ejs": "^3.1.8",
+    "email-validator": "^2.0.4",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^4.8.0",
+    "mongoose": "^6.4.5",
+    "multer": "^1.4.5-lts.1",
+    "node": "^18.5.0",
+    "nodemailer": "^6.7.7",
+    "otp-generator": "^4.0.0",
+    "qrcode": "^1.5.1",
+    "randomstring": "^1.2.2",
+    "uuid": "^8.3.2"**
+    
+Thank You 
+Aniket Sonawane
+
+
+
+
