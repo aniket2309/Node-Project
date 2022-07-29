@@ -1,3 +1,13 @@
+How to Run Program-:
+Download Zip File 
+Extract To Your PC/Laptop
+Open Folder in VS Code 
+Install Node Modules and Node Dependencies
+check carefully routes path
+set up .env file 
+then run server.js file 
+
+
 **Problem Statement-:**
 
 Create a store management system using nodejs where user can create account, sign in, login, see products available on store
