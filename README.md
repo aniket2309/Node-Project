@@ -1,11 +1,11 @@
-How to Run Program-:
-Download Zip File 
-Extract To Your PC/Laptop
-Open Folder in VS Code 
-Install Node Modules and Node Dependencies
-check carefully routes path
-set up .env file 
-then run server.js file 
+**How to Run Program-:**
+Download Zip File ,
+Extract To Your PC/Laptop,
+Open Folder in VS Code ,
+Install Node Modules and Node Dependencies,
+check carefully routes path,
+set up .env file ,
+then run server.js file .
 
 
 **Problem Statement-:**
@@ -37,7 +37,7 @@ Refer to lenskart as an example
     "express": "^4.18.1",
     "jsonwebtoken": "^8.5.1",
     "mongodb": "^4.8.0",
-    "mongoose": "^6.4.5",
+    "mongoose": "^6.4.5",How to Run Program-:
     "multer": "^1.4.5-lts.1",
     "node": "^18.5.0",
     "nodemailer": "^6.7.7",
